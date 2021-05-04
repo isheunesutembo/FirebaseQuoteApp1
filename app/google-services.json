@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798111600773",
+    "project_id": "fir-quoteapplication",
+    "storage_bucket": "fir-quoteapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798111600773:android:b0051b5f9a740555fd59ec",
+        "android_client_info": {
+          "package_name": "com.example.firebasequoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798111600773-3ci2q4qkh8n5gjoqjlk84nqp9f6edmfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDGAJwO1xKm2Gth6AMTRDI4fwrQnbjQxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798111600773-3ci2q4qkh8n5gjoqjlk84nqp9f6edmfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
